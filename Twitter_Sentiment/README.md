@@ -23,7 +23,7 @@ This project analyzes Twitter data to understand public sentiment toward specifi
 
 ## 📂 Dataset
 
-- [Sentiment140](http://help.sentiment140.com/for-students/)
+- [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)
 - CSV file with 1.6 million labeled tweets
 - Columns used:
   - `target`: Sentiment label (0 = negative, 4 = positive)
